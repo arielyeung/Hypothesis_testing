@@ -1,3 +1,3 @@
-# Hypothesis testing - Normal Body Temperature
+# Hypothesis testing
 
-This repo is about conducting hypothesis testing and constructing confidence interval on normal body temperature using bootstrap and frequentist approach.
+This repo is about conducting hypothesis testing and constructing confidence interval using bootstrap and frequentist approach.
